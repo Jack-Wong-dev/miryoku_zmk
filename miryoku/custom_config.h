@@ -4,6 +4,7 @@
 // custom_config.h
 
 #pragma once
+#error "custom_config.h IS BEING INCLUDED - TEST"
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTY \
 &kp Q,         &kp W,         &kp E,         &kp R,         &kp T,         &kp Y,         &kp U,         &kp I,         &kp O,         &kp P,         \
