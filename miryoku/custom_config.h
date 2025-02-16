@@ -3,9 +3,6 @@
 
 // custom_config.h
 
-#pragma once
-#error "custom_config.h IS BEING INCLUDED - TEST"
-
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTY \
 &kp Q,         &kp W,         &kp E,         &kp R,         &kp T,         &kp Y,         &kp U,         &kp I,         &kp O,         &kp P,         \
 U_MT(LGUI, A),  U_MT(LALT, S),  U_MT(LCTRL, D),   U_MT(LSHFT, F),      &kp G,         &kp H,         U_MT(LSHFT, J),   U_MT(LCTRL, K),   U_MT(LALT, L),      &kp SEMI,    \
